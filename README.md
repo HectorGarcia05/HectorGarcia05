@@ -2,7 +2,7 @@
   <img src="./Logo 2.png" alt="RavenStack" width="140" style="border-radius: 50%" />
 </div>
 
-<h1 align="center">Héctor</h1>
+<h1 align="center">Héctor Garcia</h1>
 
 <p align="center">
   <strong>Ingeniero en Electrónica y Computación</strong>
