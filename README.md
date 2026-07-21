@@ -83,6 +83,6 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=HectorGarcia05&style=for-the-badge)
 
 </div>
