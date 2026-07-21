@@ -52,39 +52,6 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 
 ---
 
-## 🛠 Tecnologías
-
-```text
-Lenguajes
-▸ Kotlin
-▸ Java
-▸ C#
-▸ SQL
-
-Frameworks
-▸ Compose Multiplatform
-▸ Jetpack Compose
-▸ Unity
-
-Bases de datos
-▸ SQLite
-▸ PostgreSQL
-▸ Firebase
-
-Herramientas
-▸ Git
-▸ GitHub
-▸ Android Studio
-▸ Visual Studio
-▸ Unity Editor
-
-Hardware
-▸ Arduino
-▸ ESP32
-```
-
----
-
 ## 📫 Contacto
 
 <div align="center">
