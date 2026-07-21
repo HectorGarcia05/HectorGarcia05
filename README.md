@@ -45,11 +45,8 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HectorGarcia05&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorGarcia05&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HectorGarcia05&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HectorGarcia05&theme=github_dark" />
 </div>
 
 ---
