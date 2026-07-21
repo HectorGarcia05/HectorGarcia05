@@ -46,9 +46,9 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HectorGarcia05&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorGarcia05&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
