@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Logo con fondo - Ravenstack.png" alt="RavenStack" width="140" style="border-radius: 50%" />
+  <img src="./Logo con fondo.png" alt="RavenStack" width="140" style="border-radius: 50%" />
 </div>
 
 <h1 align="center">Héctor</h1>
