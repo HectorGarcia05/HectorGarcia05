@@ -42,42 +42,6 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🛒 Mi Abarrote
-Sistema Punto de Venta desarrollado con Kotlin y Compose Multiplatform.
-
-- Gestión de inventario
-- Ventas
-- Clientes y fiados
-- Reportes
-- SQLite
-
----
-
-### 🥽 VR Zen
-
-Experiencia inmersiva desarrollada en Unity para realidad virtual.
-
-- Interacción con objetos
-- Ambientes naturales
-- Optimización para VR
-- Audio espacial
-
----
-
-### 🤖 Electrónica y Sistemas Embebidos
-
-Proyectos utilizando:
-
-- ESP32
-- Arduino
-- Sensores
-- Automatización
-- Comunicación inalámbrica
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
