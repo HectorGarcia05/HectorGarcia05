@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Ingeniero en Electrónica y Computación</strong>
   <br />
-  Desarrollo de Software · Android · Unity · Sistemas Embebidos
+  Desarrollo de Software · Android · Unity · Sistemas a tu medida
 </p>
 
 <p align="center">
