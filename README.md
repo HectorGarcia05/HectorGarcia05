@@ -64,7 +64,7 @@ I am always looking to learn new technologies and build projects that combine so
 
 **Héctor García** represents my professional identity, while **RavenStack** represents the creative space where I design, develop, and share my projects.
 
-This GitHub profile works as both a professional portfolio and a showcase of my work. You can see the full portfolio at **[hectorgarcia05.github.io](https://hectorgarcia05.github.io)**.
+This GitHub profile works as both a professional portfolio and a showcase of my work.
 
 ---
 
