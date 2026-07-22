@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Logo 2.png" alt="RavenStack" width="140" style="border-radius: 50%" />
+  <img src="./Logo redondo.png" alt="RavenStack" width="140" style="border-radius: 50%" />
 </div>
 
 <h1 align="center">Héctor García</h1>
@@ -52,11 +52,11 @@ I am always looking to learn new technologies and build projects that combine so
 
 ---
 
-## RavenStack
+## Corvus Stack
 
-**RavenStack** is my personal brand for software, hardware, and technology projects.
+**Corvus Stack** is my personal brand for software, hardware, and technology projects.
 
-**Héctor García** represents my professional identity, while **RavenStack** represents the creative space where I design, develop, and share my projects.
+**Héctor García** represents my professional identity, while **Corvus Stack** represents the creative space where I design, develop, and share my projects.
 
 This GitHub profile works as both a professional portfolio and a showcase of my work.
 
