@@ -100,5 +100,8 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 ---
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=HectorGarcia05&style=for-the-badge)
+  <img
+    src="https://komarev.com/ghpvc/?username=HectorGarcia05&style=for-the-badge"
+    alt="Profile views"
+  />
 </div>
