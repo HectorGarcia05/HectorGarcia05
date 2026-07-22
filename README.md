@@ -11,12 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://hectorgarcia05.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-RavenStack-0a0a0c?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
