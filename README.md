@@ -5,9 +5,9 @@
 <h1 align="center">Héctor Garcia</h1>
 
 <p align="center">
-  <strong>Ingeniero en Electrónica y Computación</strong>
+  <strong>Electronics and Computer Engineer</strong>
   <br />
-  Desarrollo de Software · Android · Unity · Sistemas a tu medida
+  Software Development · Android · Unity · Custom Solutions
 </p>
 
 <p align="center">
@@ -28,18 +28,18 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Ingeniero en Electrónica y Computación** apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
+I am an **Electronics and Computer Engineer** passionate about software development and creating technological solutions.
 
-Actualmente desarrollo aplicaciones utilizando **Kotlin**, **Compose Multiplatform** y **Java**, además de experiencias de **Realidad Virtual con Unity**. También disfruto trabajar con **Arduino**, **ESP32** y proyectos de sistemas embebidos.
+Currently, I develop applications using **Kotlin**, **Compose Multiplatform**, and **Java**, as well as creating **Virtual Reality experiences with Unity**. I also enjoy working with **Arduino**, **ESP32**, and embedded systems projects.
 
-Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que combinen software, hardware y una buena experiencia de usuario.
+I am always looking to learn new technologies and build projects that combine software, hardware, and a great user experience.
 
 ---
 
@@ -52,7 +52,7 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
 
@@ -72,12 +72,12 @@ Siempre estoy buscando aprender nuevas tecnologías y construir proyectos que co
 
 ---
 
-## ⚡ Actualmente
+## ⚡ Currently
 
-- 📚 Aprendiendo nuevas tecnologías para desarrollo multiplataforma.
-- 🛒 Desarrollando un sistema Punto de Venta.
-- 🥽 Creando experiencias de Realidad Virtual en Unity.
-- 🚀 Construyendo proyectos personales para ampliar mi portafolio.
+- 📚 Learning new technologies for multiplatform development.
+- 🛒 Developing a Point of Sale system.
+- 🥽 Creating Virtual Reality experiences with Unity.
+- 🚀 Building personal projects to expand my portfolio.
 
 ---
 
