@@ -33,7 +33,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an **Electronics and Computer Engineer** passionate about software development and creating technological solutions.
 
@@ -43,7 +43,7 @@ I am always looking to learn new technologies and build projects that combine so
 
 ---
 
-## 🦅 RavenStack
+## RavenStack
 
 **RavenStack** is my personal brand for software, hardware, and technology projects.
 
@@ -53,7 +53,7 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HectorGarcia05&theme=github_dark" />
@@ -62,7 +62,7 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
@@ -82,12 +82,12 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 
 ---
 
-## ⚡ Currently
+## Currently
 
-- 📚 Learning new technologies for multiplatform development.
-- 🛒 Developing a Point of Sale system.
-- 🥽 Creating Virtual Reality experiences with Unity.
-- 🚀 Building personal projects to expand my portfolio.
+- Learning new technologies for multiplatform development.
+- Developing a Point of Sale system.
+- Creating Virtual Reality experiences with Unity.
+- Building personal projects to expand my portfolio.
 
 ---
 
