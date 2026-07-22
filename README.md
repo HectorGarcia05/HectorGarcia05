@@ -73,7 +73,7 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 
 ## Contact
 
-<div>
+<div align="center">
 <a href="https://hectorgarcia05.github.io" target="_blank">
 <img src="https://img.shields.io/badge/Web-0a0a0c?style=for-the-badge" />
 </a>
