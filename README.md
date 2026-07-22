@@ -43,6 +43,16 @@ I am always looking to learn new technologies and build projects that combine so
 
 ---
 
+## 🦅 RavenStack
+
+**RavenStack** is my personal brand for software, hardware, and technology projects.
+
+**Héctor Garcia** represents my professional identity, while **RavenStack** represents the creative space where I design, develop, and share my projects.
+
+This GitHub profile works as both a professional portfolio and a showcase of my work.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
