@@ -2,7 +2,7 @@
   <img src="./Logo 2.png" alt="RavenStack" width="140" style="border-radius: 50%" />
 </div>
 
-<h1 align="center">Héctor Garcia</h1>
+<h1 align="center">Héctor García</h1>
 
 <p align="center">
   <strong>Electronics and Computer Engineer</strong>
@@ -11,13 +11,30 @@
 </p>
 
 <p align="center">
+  <a href="https://hectorgarcia05.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-RavenStack-0a0a0c?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
@@ -27,8 +44,6 @@
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -47,9 +62,9 @@ I am always looking to learn new technologies and build projects that combine so
 
 **RavenStack** is my personal brand for software, hardware, and technology projects.
 
-**Héctor Garcia** represents my professional identity, while **RavenStack** represents the creative space where I design, develop, and share my projects.
+**Héctor García** represents my professional identity, while **RavenStack** represents the creative space where I design, develop, and share my projects.
 
-This GitHub profile works as both a professional portfolio and a showcase of my work.
+This GitHub profile works as both a professional portfolio and a showcase of my work. You can see the full portfolio at **[hectorgarcia05.github.io](https://hectorgarcia05.github.io)**.
 
 ---
 
@@ -65,19 +80,18 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 ## Contact
 
 <div align="center">
-
+<a href="https://hectorgarcia05.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-0a0a0c?style=for-the-badge" />
+</a>
 <a href="https://github.com/HectorGarcia05" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/HectorGarcia05/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:hrugarcia@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </div>
 
 ---
@@ -92,7 +106,5 @@ This GitHub profile works as both a professional portfolio and a showcase of my 
 ---
 
 <div align="center">
-
 ![](https://komarev.com/ghpvc/?username=HectorGarcia05&style=for-the-badge)
-
 </div>
